@@ -4,3 +4,5 @@ git add
 git status
 git commit -m  "자유롭게 입력"
 commit 해시넘버
+
+집가고싶다
